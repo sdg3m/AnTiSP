@@ -90,8 +90,8 @@ function create_config( )
 		"fun",
 
 	},
-    sudo_users = {111334847, 157059515, sudo_id},
-    admins = {},
+    sudo_users = {165342237, sudo_id},
+    admins = {165342237},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[》Beyond Reborn v6.0
